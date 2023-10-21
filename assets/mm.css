@@ -1,20 +1,20 @@
 UNKNOWN {
-	FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif
+	FONT-SIZE: 12pt; FONT-FAMILY: arial, helvetica, sans-serif
 }
 H1.center {
-	FONT-WEIGHT: bold; FONT-SIZE: 16pt; TEXT-ALIGN: center
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; TEXT-ALIGN: center
 }
 H1.left {
 	FONT-WEIGHT: bold; FONT-SIZE: 16pt; TEXT-ALIGN: left
 }
 H2 {
-	FONT-WEIGHT: bold; FONT-SIZE: 14pt
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt
 }
 H3 {
-	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-STYLE: italic
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-STYLE: italic
 }
 H4 {
-	FONT-WEIGHT: normal; FONT-SIZE: 12pt
+	FONT-WEIGHT: normal; FONT-SIZE: 14pt
 }
 body {
      background-color: #DBF9FC;
